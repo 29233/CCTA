@@ -1,9 +1,12 @@
 [submodule "detectron2"]
 	path = detectron2
 	url = https://github.com/29233/detectron2.git
+	branch = master
 [submodule "pytorchvideo"]
 	path = pytorchvideo
 	url = https://github.com/29233/pytorchvideo.git
+	branch = master
 [submodule "SlowFast"]
 	path = SlowFast
 	url = https://github.com/29233/SlowFast.git
+	branch = master
